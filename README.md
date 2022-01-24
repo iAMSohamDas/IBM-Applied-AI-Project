@@ -1,1 +1,1 @@
-# IBM-Applied-AI-Project
+# coding-project-template
